@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "17a69a623ab1ea12f537984c",
+  "owner": "uyd5qu",
+  "repo": "page-8c6349a6787ef1feacc481eb",
+  "title": "Wespanl",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8c6349a6787ef1feacc481eb",
+      "a": "Wespanl",
+      "b": "机场官网线路发布页",
+      "entity": "Wespanl",
+      "brand": "Wespanl",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aa1b1db00d72e497e64a14477caff4ac4472f72ff71cea010e14659444123359",
+      "content": {
+        "primary_entity": "Wespanl",
+        "keyword1": "Wespanl",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，Windows、macOS、Android、iOS 与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选定套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别覆盖 3 台、5 台与 20 台设备同时在线，月流量从 100GB 到 1000GB 可选。旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点和企业定制路由。月付与年付均可，年付方案折算后更省。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。如果家中手机、电脑与平板需要同时连接，建议从旗舰版起步；小型团队多终端场景适合团队版。",
+          "AI_FAQ_ANSWER_2": "月付灵活、可随时调整，适合短期或试用需求；年付折算到每月更低，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_3": "客户端按设备系统选择：Windows 与 macOS 使用桌面客户端，Android 与 iOS 使用移动客户端，路由器可在支持的环境下配置订阅。具体以各客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览选基础版，日常流媒体与游戏选旗舰版，多设备高流量场景选团队版。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点并支持企业定制路由。对延迟敏感的游戏或实时应用，建议选择旗舰版及以上。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量额度与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付该怎么选？",
+          "AI_FAQ_QUESTION_3": "不同设备应该用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "各套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_5": "游戏加速适合哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度，快速匹配适合自己的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按实际终端数量选择。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，日常流媒体与游戏优先考虑旗舰版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付折算更低，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配要求、按客户端文档配置订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Wespanl 提供基础版、旗舰版与团队版三档海外加速订阅，覆盖不同设备数量与流量需求，支持月付与年付，便于按使用场景快速选择。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备与流量需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选定合适订阅。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与同时在线终端数，核对套餐中的设备与流量上限。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成配置后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Wespanl 订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xisky.cn",
+    "host": "xisky.cn"
+  },
+  "file_hashes": {
+    "index.html": "89e5bfc88d1a4327cab83ccd3d10de2bacc1e542f497d91d4ced86092e1ad464",
+    "sitemap.xml": "eb8f3003cb93422ce7bd9f01f3d775d266be7869c902e6d307095788e22f3da1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6ee65f216cd48c585f73e1e4882aeb5979106c76c298d93ff8a2084c0ee369ba",
+    "robots.txt": "65b33b08f6bbacb595c4931a31ee5c08bdfda09ebd3935348942f39a07cc2fed",
+    "c6bf14de7221c147a614033f9021cffb.txt": "5a6382a418d7056207b09be6f7aa352fe314378f028c9584af072079872869ee"
+  },
+  "revision": "c67aca1ce76f0417c0fd810f717fc2b04688199b28635a0f93c39bffd7386916"
+}
